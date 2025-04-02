@@ -1,0 +1,79 @@
+Hi everyone! Today I am going to present to you my product canvas that I created for the DeliverEase Application for your Smartphone. As the tagline says, ‘Every Meal – just one app away.’ I’ll walk you through the key aspects of this innovative product, including its vision, metrics for success, core features, user personas and lastly some catchy visuals in terms of a storyboard demonstrating the user experience. Let’s dive in!
+
+Let us begin with Why the name DeliverEase? The name reflects the core value proposition: simplifying food delivery decisions and offering a seamless, hassle-free experience for users
+
+We aim to become the most trusted, one-stop solution for food delivery decisions, where users can effortlessly find the best deals, fastest delivery times, and personalized recommendations—all in one place, unlike the current manual comparison process.
+
+DeliverEase caters to a wide variety of user personas, making it accessible to a diverse audience:
+Health-Conscious foodies like Taara, who prioritize diet-specific food choices.
+Busy Professionals like Aron, who need a quick and reliable delivery solution.
+Parents and families like Chris and Taylor, who value affordability and convenience for ordering meals for their household.
+
+The Big Picture slide highlights the core features of DeliverEase and how they come together to create a seamless experience for users. Some key highlights of this section that we will see in detail later include:
+Unified Search and Multi-Platform Comparison, Real-Time Order Tracking, Discounts and Promo Code Integration and most importantly Personalized Recommendations.
+
+To ensure that DeliverEase is on track to meet its vision, we use quantifiable metrics to measure progress:
+Starting with an aim to reach 2000 daily active users and a User retention rate of over 55%
+and probably the most important metric is to Reduce the average time spent searching and comparing food options by 30% in the first quarter.
+
+Then we will check out some initial planning on how we'll achieve our goals by prioritizing certain set of features early in the development stage. 
+
+On the extreme right we have the Workflow that demonstrates what will happen behind the scenes as the users navigate through their daily ordering routine. The main highlight of this workflow is that it is so efficient and can be easily used for making personalised reccomendations at multiple stages.
+
+And lastly we have some intuitive visual representation in terms of wireframe designs and a storyboard to showcase user interaction.
+
+Previously, we explored, the name 'DeliverEase' reflects its core purpose: to deliver ease and convenience to users navigating the complex world of food delivery apps. 
+The product vision is simple yet powerful: ‘To become the most trusted, one-stop solution for food delivery decisions, where users can effortlessly find the best deals, fastest delivery times, and personalized recommendations—all in one place.’ This vision drives every aspect of the product’s design and functionality.
+
+The Big Picture captures the essence of DeliverEase. The app simplifies food delivery by enabling users to search for meals, compare prices and delivery times, and seamlessly place orders through their chosen platform.
+The core user experiences include:
+Unified search across platforms with intelligent suggestions.
+A side-by-side comparison of delivery times, fees, and discounts.
+Personalized user recommendations based on order history.
+Real-time order tracking with live map updates.
+These features ensure that DeliverEase addresses user pain points and creates a streamlined, efficient experience.
+
+As we saw in the previous slide the core user experiences will be achieved through the delivery of these main features. This list is what makes DeliverEase stand out from other similar applications.
+
+Success for DeliverEase will be measured through specific, actionable metrics. These include:
+Achieving daily user activity of over 2000 users.
+Increasing user retention by 55% with over 20% monthly new users.
+Helping users save an average of 15% per order through price comparisons, reducing the time to place an order by great margins.
+Achieving a 30% increase in app sessions per user through personalized recommendations.
+These metrics ensure DeliverEase stays user-centric and results-driven.
+To support the business aspect, conversion of atleast 10% users from a free to paid plan would be important. 
+Lastly, a smart reccomendation system that will record user history and location to reorder their previous meals when they are in a 5 miles radius.
+
+DeliverEase targets a diverse user base with unique needs. I've explored some important groups who can be a good group of primary users. These include Health conscious food enthusiasts, users living in remote areas, digital nomads who are too busy to cook, working parents who can't cook daily for their children, and workers who have night shifts.
+
+Three personas highlight some of these groups:
+
+Meet Aron, a 35-year-old night-shift security guard working in a corporate office complex. Aron shifts run from late evening to early morning, and he often finds himself needing a quick, reliable meal to get through the night. His primary concerns are finding late-night food delivery options and making sure the meal arrives on time without disrupting his short breaks.
+As a busy professional, Aron doesn’t want to waste time navigating multiple apps to compare prices or delivery times. He needs an efficient solution that delivers what he’s craving in the least amount of time possible. This is where DeliverEase steps in. With our unified search, he can easily find all available food delivery options from platforms like Grubhub, DoorDash, and UberEATS, even in the middle of the night. The real-time tracking feature gives Aron full transparency, letting him know exactly when his meal will arrive so he can manage his breaks accordingly.
+
+Next, we have Taara, a 29-year-old nutritionist with a passion for healthy eating. Taara follows a pescatarian diet and is extremely particular about the quality of food she consumes. While she enjoys ordering food, Taara often struggles to find options that align with her dietary preferences, especially when searching for organic or gluten-free meals. Taara needs an app that filters food choices based on her strict dietary needs, and also provides transparency on nutritional information. She doesn’t want to waste time scrolling through apps with irrelevant options.
+DeliverEase is the perfect solution for her. With dietary filters like vegan, gluten-free, and pescatarian, Taara can easily find the meals that align with her values. The app also provides detailed nutritional information, so Taara knows exactly what she’s consuming, whether it’s a healthy salad or a protein-packed dish.
+
+Finally, we have Chris and Taylor Anderson, a busy couple with two young children. Both work full-time—Chris in IT and Taylor as a teacher. With their hectic schedules, they often find themselves scrambling for quick, healthy, and affordable meals for the whole family. DeliverEase helps Chris and Taylor by offering family-sized meal bundles that cater to all the family’s tastes, with affordable pricing. They can easily compare options to find meals that fit within their budget, and since DeliverEase shows prices and delivery times from multiple platforms, they can quickly choose the best deal.
+The app also saves them time by allowing them to reorder their favorite meals or view past orders.
+
+In this slide, we have a series of wireframes that showcase the key screens of the DeliverEase application. Let’s walk through them, starting from the top left and moving across, then we’ll cover the bottom row. 
+The app has a clean and intuitive landing page that helps select what the user wants to do. This will not be shown everytime. The Registration page allows new users to sign up by entering their details. After verification, they’re redirected back to the login page to start using the app. Next we see the Login screen. Users can either log in or sign up here. It’s simple and easy, with options to recover forgotten passwords or switch between the login and sign-up forms.
+
+The Home screen shows users a variety of food options. They can browse through different categories, add items to their cart, and proceed to checkout when ready. The screen on bottom center showcases detailed information for individual items, like a Ranch Burger with Salad. Users can customize and add the item to their cart before continuing. Finally, the Order Details page provides real-time tracking of the order. Users can see where their food is and track its progress all the way to delivery. The users will be returned to this page from the food app of their choice once they have ordered.
+These wireframes demonstrate the streamlined user journey for DeliverEase, ensuring users can easily log in, explore food options, customize their orders, and track deliveries in real time.
+
+Here’s the workflow diagram, outlining the end-to-end user journey—from launching the app to placing an order and receiving their food.
+
+Let’s walk through the workflow of the DeliverEase application, emphasizing key decision points and the user journey. The process begins with the user choosing to log in if they are a returning user or signing up if they are new. If they opt to sign up, their details are verified before creating the account. Once logged in, The application fetches if there are any new food apps installed. If so the application will ask the user a confirmation to add that to the list. If the user agrees, then the application will be visible in Deliverease. 
+Here every box that is shown with a green border symbolizes that a new page will be shown to the user. On the homescreen, the user searches for restaurants or food items using filters for preferences like price or delivery speed. Application will through fuzzy logic search for all items matching the user term. This menu will be intuitive and showcase top offers. Users browse the menu, add desired items to their cart, and proceed to the checkout. Then they are redirected to the food application of their choice where the order is placed. Users can track their order in real time via the map. Once the order is delivered, users can rate the service and provide feedback, closing the loop for a seamless experience. This workflow ensures simplicity, efficiency, and customer satisfaction by addressing every critical decision point in the user’s journey.
+
+Let’s take a closer look at the storyboard, which illustrates how DeliverEase seamlessly integrates into the daily lives of our users.
+The story begins with a young college professional realizing they need to order breakfast in the middle of a project session. As he sits between a number of devices trying to find and compare between multiple food delivery applications, one of their friends opens up an application and, in the blink of an eye, screams, "Hurray!" Buy 2 get 3 free on Grubhub today. Our primary persona is clueless about how this happened so quickly.
+So he asks, wow! thats cool! How did you do that? The friend shows the DeliverEase application and how it quickly compares and finds the best deals. Then they go on to order the meal by clicking on the GrubHub logo and paying the fees. That simple! Now, both of them go back to relaxing and playing with their pets while the application handles order placement and tracking.
+
+Lastly, the Epic at the heart of DeliverEase is a powerful narrative that encapsulates the vision and scope of our product. It is designed to solve a very real problem—ensuring fast, reliable, and user-friendly food delivery for busy individuals. Here we prioritize various features that are must have in order to achieve the Minimum Viable Product or MVP. The table highlights different features, their relevance to the user story, the acceptance criteria, and their priority. Completion of these features will ensure the application is on track and can be delivered properly.
+
+In summary, DeliverEase redefines how users interact with food delivery platforms, offering a unified, efficient, and personalized experience. From its clear vision to its thoughtfully designed features, this product canvas showcases the potential of DeliverEase to become a game-changer in the food delivery landscape.
+
+Thank you for your time, and I’d love to hear your thoughts or answer any questions about this exciting project!
